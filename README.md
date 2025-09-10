@@ -62,21 +62,6 @@
   </li>
 </ul>
 
-<!-- CSS for dark mode fix -->
-<style>
-  /* Icons that are originally black will flip to white in dark mode */
-  .icon-darkmode {
-    filter: brightness(0) invert(1);
-  }
-
-  /* Optional: only apply this when the system is in dark mode */
-  @media (prefers-color-scheme: light) {
-    .icon-darkmode {
-      filter: none; /* keep normal in light mode */
-    }
-  }
-</style>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashanksp1&show_icons=true&locale=en&layout=compact" alt="shashanksp1" /></p>
 

@@ -38,6 +38,15 @@
   </li>
 
   <li>
+    <b>Frontend:</b>
+    <img src="./react-original.svg" alt="React" width="25" height="25" align="middle" />&nbsp;&nbsp;
+    <img src="./nextjs-icon.png" alt="Next.js" width="25" height="25" align="middle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="25" height="25" align="middle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/este/semantic-ui-css/master/theme/images/tailwindcss.svg" alt="TailwindCSS" width="25" height="25" align="middle" />&nbsp;&nbsp;
+    <img src="./icons-hero@2x.png" alt="Bootstrap" width="25" height="25" align="middle" />
+  </li>
+
+  <li>
     <b>Backend:</b>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;"/>
     <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/1646733543.webp" alt="Express.js" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />

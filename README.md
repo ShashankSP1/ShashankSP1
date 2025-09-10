@@ -31,7 +31,7 @@
     <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/nextjs-icon.png" alt="Next.js" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="25" height="25"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="25" height="25"/>
-    <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/bootstrap-logo.png" alt="Bootstrap" width="25" height="25" />
+    <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/icons-hero%402x.png" alt="Bootstrap" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/>

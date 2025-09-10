@@ -27,14 +27,14 @@
 <ul>
   <li>
     <b>Frontend:</b>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/nextjs-icon.png" alt="Next.js" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="25" height="25"style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/icons-hero%402x.png" alt="Bootstrap" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"   />&nbsp;&nbsp;
+    <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/nextjs-icon.png" alt="Next.js" width="25" height="25"   />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="25" height="25"   />&nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="25" height="25"  />&nbsp;&nbsp;
+    <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/icons-hero%402x.png" alt="Bootstrap" width="25" height="25"   />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="25" height="25"   />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="25" height="25"   />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"   />&nbsp;&nbsp;
   </li>
 
   <li>
@@ -48,26 +48,26 @@
 
   <li>
     <b>Backend:</b>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;"/>
-    <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/1646733543.webp" alt="Express.js" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"  />
+    <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/1646733543.webp" alt="Express.js" width="25" height="25"   />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25"   />
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="25" height="25"   />
   </li>
 
   <li>
     <b>Database:</b>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"   />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="25" height="25"   />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="25" height="25"   />
   </li>
 
   <li>
     <b>Tools:</b>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25" style="margin:5px; margin-top:8px; vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"   />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25"   />
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25"   />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25"   />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"  />
   </li>
 </ul>
 

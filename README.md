@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
-  <li>
+  <li class="gap-2">
     <b>Frontend:</b>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"/>
     <img src="https://github.com/ShashankSP1/ShashankSP1/blob/main/nextjs-icon.png" alt="Next.js" width="25" height="25"/>

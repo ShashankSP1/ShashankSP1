@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Shashank
+🚀 Full Stack Developer | MERN & Java Full Stack | Passionate about building scalable applications  
 
-<!--
-**ShashankSP1/ShashankSP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript, TailwindCSS  
+- **Backend:** Node.js, Express.js, Java  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools:** Git, Docker, Kubernetes  
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+- [Complaint Management System](https://github.com/yourusername/project-link) – Built with React + Node.js + PostgreSQL  
+- [Portfolio Website](https://github.com/yourusername/project-link) – Personal portfolio using React & Tailwind  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Portfolio Website](https://your-portfolio.com)  
+

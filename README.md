@@ -40,7 +40,7 @@
   <li>
     <b>Backend:</b>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25" height="25" class="icon-darkmode"/>
+    <img src="https://www.manektech.com/storage/developer/1646733543.webp" alt="Express.js" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25"/>
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="25" height="25"/>
   </li>

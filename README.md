@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashanksp1" alt="shashanksp1" /></a> </p>
 
 -  🔭 I’m currently working as Junior Software Engineer in Zeksta Technology
--  👨‍💻 All of my projects are available at [https://shashanks-portfolio.netlify.app](https://shashanks-portfolio.netlify.app)
+-  👨‍💻 Explore my Portfolio at [https://shashanks-portfolio.netlify.app](https://shashanks-portfolio.netlify.app)
 
 - 💬 Ask me about **Java, React.js, Next.js, SQL**
 

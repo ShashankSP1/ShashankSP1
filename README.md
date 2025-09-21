@@ -8,7 +8,7 @@
 -  🔭 I’m currently working as Junior Software Engineer in Zeksta Technology
 -  👨‍💻 All of my projects are available at [https://shashanks-portfolio.netlify.app](https://shashanks-portfolio.netlify.app)
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Java, React.js, Next.js, SQL**
 
 - 📫 How to reach me **shashankshiva6361@gmail.com**
 

@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashanksp1" alt="shashanksp1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shashanks-portfolio.netlify.app](https://shashanks-portfolio.netlify.app)
+-  🔭 I’m currently working as Junior Software Engineer in Zeksta Technology
+-  👨‍💻 All of my projects are available at [https://shashanks-portfolio.netlify.app](https://shashanks-portfolio.netlify.app)
 
 - 💬 Ask me about **Java, React**
 
 - 📫 How to reach me **shashankshiva6361@gmail.com**
 
-- 📄 Know about my experiences [https://shashanks-portfolio.netlify.app](https://shashanks-portfolio.netlify.app)
+- 📄 Know about my experiences [https://shashanks-portfolio.netlify.app](https://shashanksp-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
